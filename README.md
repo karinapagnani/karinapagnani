@@ -1,56 +1,61 @@
-<h1 align="center">👋 Oi, eu sou a Karina!</h1>
+<!-- Banner animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:7c3aed&height=180&section=header&text=Olá%20👋%2C%20sou%20a%20Karina!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  🎓 Estudante do último ano do Ensino Médio + Técnico em Desenvolvimento de Sistemas<br>
-  💻 Encantada por criar soluções com código e transformar ideias em projetos reais<br>
-  🌱 Atualmente aprendendo e evoluindo com cada desafio
+  💻 Estudante de Desenvolvimento de Sistemas | 👩‍🎓 Ensino Médio Técnico | 🌟 Apaixonada por tecnologia
 </p>
 
 ---
 
-### 🚀 Tecnologias que uso 
+### 🚀 Tecnologias que uso
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react" alt="Tech stack" />
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 🔭 Atualmente trabalhando em projetos pessoais e escolares
-- ✨ Busco criar experiências intuitivas e funcionais
-- 💬 Gosto de aprender, compartilhar e colaborar
-- 🧩 Interesses: front-end, mobile, design de interfaces, e back-end com PHP
+- 🔎 Sempre curiosa por novas tecnologias
+- ✨ Criadora de soluções com foco em usabilidade
+- 💼 Buscando oportunidades para evoluir e colaborar
+- 🧠 Aprendendo todos os dias!
 
 ---
 
-### 🛠️ Meus projetos em destaque
+### 📌 Meus projetos
 
-📱 **App de Tarefas**  
-Aplicativo mobile com React Native para organizar tarefas diárias.
-
-🌐 **Portfólio Pessoal**  
-Site pessoal feito com HTML, CSS e JS mostrando meus projetos e aprendizados.
-
-🧾 **Sistema de Cadastro**  
-Aplicação PHP com banco de dados MySQL, focado em CRUD de usuários.
-
-🔗 Veja mais nos meus repositórios abaixo!
+| Projeto | Tecnologias | Descrição |
+|--------|--------------|-----------|
+| [📱 App de Tarefas](https://github.com/seuusuario/app-tarefas) | React Native | Aplicativo para organizar tarefas do dia a dia |
+| [🌐 Portfólio Pessoal](https://github.com/seuusuario/portfolio) | HTML, CSS, JS | Site para mostrar projetos e habilidades |
+| [🧾 Sistema de Cadastro](https://github.com/seuusuario/sistema-cadastro) | PHP, MySQL | CRUD de usuários com backend em PHP |
 
 ---
 
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link-aqui)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pagnanikarina@gmail.com)
-
----
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karina&style=flat" alt="Profile views" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karina&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karina&layout=compact&theme=radical" />
 </p>
+
+---
+
+### 🐍 Snake de contribuições (divertido!)
+
+![snake gif](https://github.com/karina/karina/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 💬 Contato
+
+<p align="center">
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:7c3aed&height=120&section=footer" />
