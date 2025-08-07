@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:7c3aed&height=180&section=header&text=Olá%20👋%2C%20sou%20a%20Karina!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  💻 Estudante de Desenvolvimento de Sistemas | 👩‍🎓 Ensino Médio Técnico 
+  💻 Estudante de Desenvolvimento de Sistemas | 👩‍🎓 Ensino Médio Técnico
 </p>
 
 ---
