@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desenvolvedora+Full+Stack;
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?front=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desenvolvedora+Full+Stack;%F0%9F%9A%80
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:7c3aed&height=120&section=header&animation=fadeIn" />
   
