@@ -26,15 +26,6 @@ const karina = {
     location: "Brasil 🇧🇷",
     currentFocus: "Frontend Development & UI/UX",
     funFact: "Transformo café em código ☕→💻",
-    
-    dailyRoutine: [
-        "☕ Tomar café",
-        "💻 Programar",
-        "📚 Estudar novas tecnologias",
-        "🔄 Repetir"
-    ],
-    
-    lifePhilosophy: "Código limpo é poesia digital ✨"
 };
 ```
 
@@ -139,17 +130,6 @@ const karina = {
 - [Minha jornada no desenvolvimento full-stack](https://dev.to/karina/jornada-fullstack)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-## 💭 Quote do Dia
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=O%20código%20é%20poesia%20que%20as%20máquinas%20conseguem%20ler&author=Karina)
-  
-</div>
-
----
 
 ## 🤝 Vamos Conectar?
 
@@ -157,8 +137,8 @@ const karina = {
 
 💌 **Sempre aberta para colaborações e novas oportunidades!**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pagnanikarina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karina-pagnani-a00880368)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://karina-portfolio.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/karina)
 
