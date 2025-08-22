@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG][(https://readme-typing-svg.herokuapp.com?[front=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desenvolvedora+Full+Stack;%F0%9F%9A%80](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desenvolvedora+Full+Stack;Estudante+de+Sistemas;Sempre+aprendendo+%F0%9F%9A%80)]
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desenvolvedora+Full+Stack;Estudante+de+Sistemas;Sempre+aprendendo+%F0%9F%9A%80)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:7c3aed&height=120&section=header&animation=fadeIn" />
   
@@ -17,7 +17,7 @@
 
 ---
 
-##  Sobre Mim
+## 🚀 Sobre Mim
 
 ```javascript
 const karina = {
@@ -26,23 +26,22 @@ const karina = {
     location: "Brasil 🇧🇷",
     currentFocus: "Frontend Development & UI/UX",
     funFact: "Transformo café em código ☕→💻",
-};
-```
+    
+   };
 
----
 
-##  Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-###  Frontend
+### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-###  Backend
+### ⚙ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -61,7 +60,7 @@ const karina = {
 
 ---
 
-## GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karina&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" />
@@ -105,24 +104,14 @@ const karina = {
 
 <!--START_SECTION:activity-->
 
-- 🎉 Merged PR [#42](https://github.com/karina/taskflow/pull/42) in **taskflow**
-- ✨ Opened issue [#15](https://github.com/karina/portfolio-3d/issues/15) in **portfolio-3d**
-- 🚀 Pushed 3 commits to **main** branch of **ecommerce-api**
-- 🔥 Created new repository **learning-typescript**
+-  Merged PR [#42](https://github.com/karina/taskflow/pull/42) in **taskflow**
+-  Opened issue [#15](https://github.com/karina/portfolio-3d/issues/15) in **portfolio-3d**
+-  Pushed 3 commits to **main** branch of **ecommerce-api**
+-  Created new repository **learning-typescript**
 
 <!--END_SECTION:activity-->
 
----
-
-## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/karina/karina/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-## 📚 Blog Posts Recentes
+##  Blog Posts Recentes
 
 <!-- BLOG-POST-LIST:START -->
 - [Como criar animações suaves com CSS e JavaScript](https://dev.to/karina/animacoes-css-js)
@@ -137,9 +126,21 @@ const karina = {
 
 💌 **Sempre aberta para colaborações e novas oportunidades!**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pagnanikarina@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karina-pagnani-a00880368)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://karina-portfolio.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/karina)
 
+</div>
+
+---
+
+<div align="center">
+  
+  **⭐ Se gostou do meu perfil, deixe uma estrela nos repositórios!**
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:7c3aed&height=120&section=footer" />
+  
+  ![](https://hit.yhype.me/github/profile?user_id=karina)
+  
 </div>
