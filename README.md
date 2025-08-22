@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 ```javascript
 const karina = {
