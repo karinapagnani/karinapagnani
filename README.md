@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&height=50&lines=Desenvolvedora+Full+Stack)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedora+Full+Stack)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:7c3aed&height=120&section=header&animation=fadeIn" />
   
@@ -34,7 +34,7 @@ const karina = {
 
 ---
 
-##  Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -45,7 +45,7 @@ const karina = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-###  Backend
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -95,23 +95,23 @@ const karina = {
 
 | 🚀 Projeto | 💻 Tech Stack | 📝 Descrição | 🔗 Links |
 |------------|---------------|--------------|----------|
-| ** TaskFlow App** | `React Native` `Node.js` | App intuitivo de gestão de tarefas com sync em tempo real | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/taskflow) [![Demo](https://img.shields.io/badge/Demo-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](#) |
-| ** Portfolio 3D** | `React` `Three.js` `GSAP` | Portfolio interativo com animações 3D e design moderno | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/portfolio-3d) [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=netlify&logoColor=white)](#) |
-| ** E-Commerce API** | `PHP` `MySQL` `JWT` | API RESTful completa para e-commerce com autenticação | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/ecommerce-api) |
-| ** Data Viz Dashboard** | `React` `Chart.js` `API` | Dashboard responsivo para visualização de dados | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/data-dashboard) |
+| **📱 TaskFlow App** | `React Native` `Node.js` | App intuitivo de gestão de tarefas com sync em tempo real | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/taskflow) [![Demo](https://img.shields.io/badge/Demo-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](#) |
+| **🌐 Portfolio 3D** | `React` `Three.js` `GSAP` | Portfolio interativo com animações 3D e design moderno | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/portfolio-3d) [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=netlify&logoColor=white)](#) |
+| **🏪 E-Commerce API** | `PHP` `MySQL` `JWT` | API RESTful completa para e-commerce com autenticação | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/ecommerce-api) |
+| **📊 Data Viz Dashboard** | `React` `Chart.js` `API` | Dashboard responsivo para visualização de dados | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/data-dashboard) |
 
 </div>
 
 ---
 
-## 🌟 Contribuições Recentes
+## Contribuições Recentes
 
 <!--START_SECTION:activity-->
 
--  Merged PR [#42](https://github.com/karina/taskflow/pull/42) in **taskflow**
--  Opened issue [#15](https://github.com/karina/portfolio-3d/issues/15) in **portfolio-3d**
--  Pushed 3 commits to **main** branch of **ecommerce-api**
--  Created new repository **learning-typescript**
+- 🎉 Merged PR [#42](https://github.com/karina/taskflow/pull/42) in **taskflow**
+- ✨ Opened issue [#15](https://github.com/karina/portfolio-3d/issues/15) in **portfolio-3d**
+- 🚀 Pushed 3 commits to **main** branch of **ecommerce-api**
+- 🔥 Created new repository **learning-typescript**
 
 <!--END_SECTION:activity-->
 
