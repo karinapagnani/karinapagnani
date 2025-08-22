@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desenvolvedora+Full+Stack;Estudante+de+Sistemas;Sempre+aprendendo+%F0%9F%9A%80)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&height=50&lines=Desenvolvedora+Full+Stack)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:7c3aed&height=120&section=header&animation=fadeIn" />
   
@@ -27,21 +27,25 @@ const karina = {
     currentFocus: "Frontend Development & UI/UX",
     funFact: "Transformo café em código ☕→💻",
     
-   };
+};
+```
 
 
-## 🛠 Tech Stack
+
+---
+
+##  Tech Stack
 
 <div align="center">
 
-### 💻 Frontend
+###  Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### ⚙ Backend
+###  Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -91,10 +95,10 @@ const karina = {
 
 | 🚀 Projeto | 💻 Tech Stack | 📝 Descrição | 🔗 Links |
 |------------|---------------|--------------|----------|
-| **📱 TaskFlow App** | `React Native` `Node.js` | App intuitivo de gestão de tarefas com sync em tempo real | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/taskflow) [![Demo](https://img.shields.io/badge/Demo-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](#) |
-| **🌐 Portfolio 3D** | `React` `Three.js` `GSAP` | Portfolio interativo com animações 3D e design moderno | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/portfolio-3d) [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=netlify&logoColor=white)](#) |
-| **🏪 E-Commerce API** | `PHP` `MySQL` `JWT` | API RESTful completa para e-commerce com autenticação | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/ecommerce-api) |
-| **📊 Data Viz Dashboard** | `React` `Chart.js` `API` | Dashboard responsivo para visualização de dados | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/data-dashboard) |
+| ** TaskFlow App** | `React Native` `Node.js` | App intuitivo de gestão de tarefas com sync em tempo real | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/taskflow) [![Demo](https://img.shields.io/badge/Demo-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](#) |
+| ** Portfolio 3D** | `React` `Three.js` `GSAP` | Portfolio interativo com animações 3D e design moderno | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/portfolio-3d) [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=netlify&logoColor=white)](#) |
+| ** E-Commerce API** | `PHP` `MySQL` `JWT` | API RESTful completa para e-commerce com autenticação | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/ecommerce-api) |
+| ** Data Viz Dashboard** | `React` `Chart.js` `API` | Dashboard responsivo para visualização de dados | [![Repo](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/karina/data-dashboard) |
 
 </div>
 
@@ -111,7 +115,17 @@ const karina = {
 
 <!--END_SECTION:activity-->
 
-##  Blog Posts Recentes
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/karina/karina/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## 📚 Blog Posts Recentes
 
 <!-- BLOG-POST-LIST:START -->
 - [Como criar animações suaves com CSS e JavaScript](https://dev.to/karina/animacoes-css-js)
@@ -119,6 +133,7 @@ const karina = {
 - [Minha jornada no desenvolvimento full-stack](https://dev.to/karina/jornada-fullstack)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
 ## 🤝 Vamos Conectar?
 
