@@ -81,14 +81,6 @@ const karina = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karina&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
-
----
-
 ##  Projetos Destacados
 
 <div align="center">
@@ -114,24 +106,6 @@ const karina = {
 - 🔥 Created new repository **learning-typescript**
 
 <!--END_SECTION:activity-->
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/karina/karina/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-## 📚 Blog Posts Recentes
-
-<!-- BLOG-POST-LIST:START -->
-- [Como criar animações suaves com CSS e JavaScript](https://dev.to/karina/animacoes-css-js)
-- [React Hooks: useState vs useReducer](https://dev.to/karina/react-hooks-useState-usereducer)
-- [Minha jornada no desenvolvimento full-stack](https://dev.to/karina/jornada-fullstack)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
