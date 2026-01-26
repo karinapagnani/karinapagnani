@@ -21,10 +21,10 @@
 
 ```javascript
 const karina = {
-    role: "Desenvolvedora Full Stack",
+    role: "Desenvolvedora de sistemas",
     education: "Ensino Médio Técnico - Desenvolvimento de Sistemas",
     location: "Brasil 🇧🇷",
-    currentFocus: "Frontend Development & UI/UX",
+    currentFocus: "Frontend & Backend Development",
     funFact: "Transformo café em código ☕→💻",
     
 };
