@@ -20,9 +20,9 @@
 ```javascript
 const karina = {
     role: "Desenvolvedora de sistemas",
-    education: "Ensino Médio Técnico - Desenvolvimento de Sistemas",
-    location: "Brasil 🇧🇷",
-    currentFocus: "Frontend & Backend Development",
+    education: "Ensino Técnico em Desenvolvimento de Sistemas pelo SENAI",
+    location: "Sp, Brasil",
+    currentFocus: "Frontend & Backend",
     
 };
 ```
