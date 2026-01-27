@@ -25,7 +25,6 @@ const karina = {
     education: "Ensino Médio Técnico - Desenvolvimento de Sistemas",
     location: "Brasil 🇧🇷",
     currentFocus: "Frontend & Backend Development",
-    funFact: "Transformo café em código ☕→💻",
     
 };
 ```
