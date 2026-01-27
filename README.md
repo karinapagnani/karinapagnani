@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou a Karina
+# 👋 Hi! I'm Karina
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedora+Full+Stack)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=50&lines=Systems+Developer)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:7c3aed&height=120&section=header&animation=fadeIn" />
   
