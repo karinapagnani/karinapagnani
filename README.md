@@ -9,10 +9,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=karina&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/karina?color=7c3aed&style=flat-square&label=Followers" alt="Followers" />
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:pagnanikarina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/karinapagnani"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 ---
