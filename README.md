@@ -18,7 +18,7 @@
 ```yaml
 nome: Karina Pagnani
 formação: Estudante de Engenharia
-atuação: Técnica em Informática no SUS
+atuação: Helpdesk no SUS
 em_estudo:
   - Análise de Dados
   - UI/UX Design
