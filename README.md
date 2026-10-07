@@ -90,33 +90,6 @@ Suporte técnico em ambiente público de saúde exige priorização, clareza ao 
 
 ---
 
-## Projetos
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Nome do projeto de dados**<br>
-<sub>Análise exploratória de [tema] com Python, incluindo visualizações e conclusões.</sub><br><br>
-`Python` `Pandas` `Matplotlib`<br><br>
-[Repositório](https://github.com/karinapagnani) · [Demonstração](#)
-
-</td>
-<td width="50%" valign="top">
-
-**Nome do projeto web**<br>
-<sub>Aplicação em React com foco em usabilidade e design responsivo.</sub><br><br>
-`React` `JavaScript` `Figma`<br><br>
-[Repositório](https://github.com/karinapagnani) · [Demonstração](#)
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
 ## Em andamento
 
 <details>
