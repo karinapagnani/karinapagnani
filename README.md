@@ -83,7 +83,7 @@ Suporte técnico em ambiente público de saúde exige priorização, clareza ao 
 | **Back-end** | Node.js |
 | **Front-end** | React · HTML · CSS |
 | **Design** | Figma · Fundamentos de UI/UX |
-| **Ferramentas** | Git · GitHub |
+| **Ferramentas** | MySQL · Xampp |
 
 <br>
 
