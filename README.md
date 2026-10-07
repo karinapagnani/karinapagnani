@@ -1,67 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2b2b2b&height=180&section=header&text=Karina%20Pagnani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Engenharia%20%7C%20T%C3%A9cnica%20em%20Analise%C3%e Desenvolvimento de%20Sistemas%20&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://raw.githubusercontent.com/karinapagnani/karinapagnani/main/banner.svg" width="100%" alt="Karina Pagnani"/>
 
-<br>
+<br><br>
 
-<a href="https://www.linkedin.com/in/karina-pagnani">
-  <img src="https://img.shields.io/badge/LinkedIn-Karina%20Pagnani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=karinapagnani&style=for-the-badge&color=2b2b2b&label=VISITAS" />
+<a href="https://www.linkedin.com/in/karina-pagnani"><img src="https://img.shields.io/badge/LinkedIn-karina--pagnani-0f0f0f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/karinapagnani"><img src="https://img.shields.io/badge/GitHub-karinapagnani-0f0f0f?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/disponibilidade-aberta%20a%20oportunidades-0f0f0f?style=flat-square" alt="Disponibilidade"/>
 
 </div>
 
 <br>
 
-## 𖨊 sobre mim
+## Sobre
 
-```yaml
-nome: Karina Pagnani
-formação: Estudante de Engenharia
-atuação: Helpdesk no SUS
-em_estudo:
-  - Análise de Dados
-  - UI/UX Design
-  - Desenvolvimento Full Stack
-```
+Estudante de Engenharia e técnica em Análise e Desenvolvimento de Sistemas, com atuação em helpdesk no SUS.
+Transito entre a lógica da engenharia, a prática da área da saúde e o olhar do design: penso em sistemas, mas nunca esqueço quem vai usá-los.
+
+Busco oportunidades em **análise de dados**, **desenvolvimento** e **produto**.
 
 <br>
+
+## Perfil
+
+| | |
+|:--|:--|
+| **Formação** | Engenharia (em andamento) · Técnica em Análise e Desenvolvimento de Sistemas |
+| **Atuação** | Helpdesk no SUS |
+| **Áreas de interesse** | Análise de Dados · UI/UX Design · Desenvolvimento Full Stack |
+| **Localização** | São Paulo, Brasil |
 
 <details>
-<summary><b>por que essa combinação?</b></summary>
+<summary><b>O que o helpdesk no SUS me ensinou</b></summary>
 <br>
 
-Transito entre a lógica da engenharia, a prática da área da saúde e o olhar sensível do design.
-Isso me dá uma perspectiva pouco comum: penso em sistemas, mas nunca esqueço quem vai usá-los.
+Suporte técnico em ambiente público de saúde exige priorização, clareza ao explicar o técnico para quem não é da área e calma quando o sistema precisa funcionar para quem atende pessoas. Levo essa mentalidade para tudo o que construo: software útil, estável e fácil de usar.
 
 </details>
 
 <br>
 
-## 𖨊 stack
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,js,nodejs,figma,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,git,figma&theme=dark" alt="Tecnologias"/>
 
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+| Área | Tecnologias |
+|:--|:--|
+| **Linguagens** | Python · JavaScript |
+| **Back-end** | Node.js |
+| **Front-end** | React · HTML · CSS |
+| **Design** | Figma · Fundamentos de UI/UX |
+| **Ferramentas** | Git · GitHub |
 
-**linguagens & runtime**
-- Python
-- JavaScript / Node.js
+<br>
+
+## Projetos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Nome do projeto de dados**<br>
+<sub>Análise exploratória de [tema] com Python, incluindo visualizações e conclusões.</sub><br><br>
+`Python` `Pandas` `Matplotlib`<br><br>
+[Repositório](https://github.com/karinapagnani) · [Demonstração](#)
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**front-end & design**
-- React
-- Fundamentos de UI/UX
+**Nome do projeto web**<br>
+<sub>Aplicação em React com foco em usabilidade e design responsivo.</sub><br><br>
+`React` `JavaScript` `Figma`<br><br>
+[Repositório](https://github.com/karinapagnani) · [Demonstração](#)
 
 </td>
 </tr>
@@ -69,41 +85,36 @@ Isso me dá uma perspectiva pouco comum: penso em sistemas, mas nunca esqueço q
 
 <br>
 
-## 𖨊 no momento
+## Em andamento
 
-```
-🔍 explorando dados e visualização com Python
-🎨 estudando princípios de UI/UX
-🩺 aplicando tecnologia na prática, dentro do SUS
-```
+<details>
+<summary><b>Ver o que estou estudando</b></summary>
+<br>
+
+- Análise e visualização de dados com Python
+- Princípios de UI/UX e design de interfaces
+- Construção de aplicações full stack com React e Node.js
+- Aplicação prática de tecnologia no contexto da saúde pública
+
+</details>
 
 <br>
 
-## 𖨊 github stats
+## Atividade
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karinapagnani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karinapagnani&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinapagnani&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=karinapagnani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" height="160" alt="Estatísticas do GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinapagnani&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9" height="160" alt="Linguagens mais usadas"/>
 
 </div>
 
 <br>
 
-## 𖨊 vamos conversar
+## Contato
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/karina-pagnani">
-  <img src="https://img.shields.io/badge/-Conecte--se%20comigo-000000?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:0f0f0f&height=100&section=footer" width="100%"/>
+<a href="https://www.linkedin.com/in/karina-pagnani"><img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn"/></a>
 
 </div>
