@@ -5,7 +5,6 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/karina-pagnani"><img src="https://img.shields.io/badge/LinkedIn-karina--pagnani-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/karinapagnani"><img src="https://img.shields.io/badge/GitHub-karinapagnani-0f0f0f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/aberta%20a%20oportunidades-0f0f0f?style=for-the-badge" alt="Aberta a oportunidades"/>
 
 </div>
