@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/karinapagnani/karinapagnani/main/banner.svg" width="100%" alt="Karina Pagnani"/>
 
 
 <br><br>
