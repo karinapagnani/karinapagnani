@@ -4,9 +4,9 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/karina-pagnani"><img src="https://img.shields.io/badge/LinkedIn-karina--pagnani-0f0f0f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/karinapagnani"><img src="https://img.shields.io/badge/GitHub-karinapagnani-0f0f0f?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/disponibilidade-aberta%20a%20oportunidades-0f0f0f?style=flat-square" alt="Disponibilidade"/>
+<a href="https://www.linkedin.com/in/karina-pagnani"><img src="https://img.shields.io/badge/LinkedIn-karina--pagnani-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/karinapagnani"><img src="https://img.shields.io/badge/GitHub-karinapagnani-0f0f0f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/aberta%20a%20oportunidades-0f0f0f?style=for-the-badge" alt="Aberta a oportunidades"/>
 
 </div>
 
@@ -14,20 +14,46 @@
 
 ## Sobre
 
-Estudante de Engenharia e técnica em Análise e Desenvolvimento de Sistemas, com atuação em helpdesk no SUS.
-Transito entre a lógica da engenharia, a prática da área da saúde e o olhar do design: penso em sistemas, mas nunca esqueço quem vai usá-los.
+Estudante de **Engenharia de Software** e técnica em **Análise e Desenvolvimento de Sistemas**, com atuação em helpdesk no SUS.
 
-Busco oportunidades em **análise de dados**, **desenvolvimento** e **produto**.
+Transito entre a lógica da engenharia, a prática da área da saúde e o olhar do design: penso em sistemas, mas nunca esqueço quem vai usá-los. Busco oportunidades em análise de dados, desenvolvimento e produto.
 
 <br>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+**Engenharia**<br>
+<sub>Base sólida em lógica, estruturas e resolução de problemas.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**Design**<br>
+<sub>Interfaces claras, acessíveis e pensadas para o usuário.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**Prática real**<br>
+<sub>Suporte e tecnologia em ambiente público de saúde.</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
 
 ## Perfil
 
 | | |
 |:--|:--|
-| **Formação** | Engenharia (em andamento) · Técnica em Análise e Desenvolvimento de Sistemas |
+| **Formação** | Engenharia de Software (em andamento) · Técnica em Análise e Desenvolvimento de Sistemas |
 | **Atuação** | Helpdesk no SUS |
-| **Áreas de interesse** | Análise de Dados · UI/UX Design · Desenvolvimento Full Stack |
+| **Interesses** | Análise de Dados · UI/UX Design · Desenvolvimento Full Stack |
 | **Localização** | São Paulo, Brasil |
 
 <details>
@@ -39,6 +65,8 @@ Suporte técnico em ambiente público de saúde exige priorização, clareza ao 
 </details>
 
 <br>
+
+---
 
 ## Stack
 
@@ -60,9 +88,11 @@ Suporte técnico em ambiente público de saúde exige priorização, clareza ao 
 
 <br>
 
+---
+
 ## Projetos
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -85,6 +115,8 @@ Suporte técnico em ambiente público de saúde exige priorização, clareza ao 
 
 <br>
 
+---
+
 ## Em andamento
 
 <details>
@@ -94,11 +126,13 @@ Suporte técnico em ambiente público de saúde exige priorização, clareza ao 
 - Análise e visualização de dados com Python
 - Princípios de UI/UX e design de interfaces
 - Construção de aplicações full stack com React e Node.js
-- Aplicação prática de tecnologia no contexto da saúde pública
+- Engenharia de software: boas práticas, arquitetura e qualidade de código
 
 </details>
 
 <br>
+
+---
 
 ## Atividade
 
@@ -111,9 +145,11 @@ Suporte técnico em ambiente público de saúde exige priorização, clareza ao 
 
 <br>
 
-## Contato
+---
 
 <div align="center">
+
+<sub>Vamos conversar</sub><br><br>
 
 <a href="https://www.linkedin.com/in/karina-pagnani"><img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn"/></a>
 
