@@ -80,7 +80,7 @@ Suporte técnico em ambiente público de saúde exige priorização, clareza ao 
 | Área | Tecnologias |
 |:--|:--|
 | **Linguagens** | Python · JavaScript |
-| **Back-end** | Node.js |
+| **Back-end** | Node.js · PHP |
 | **Front-end** | React · HTML · CSS |
 | **Design** | Figma · Fundamentos de UI/UX |
 | **Ferramentas** | MySQL · Xampp |
